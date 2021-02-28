@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42355" started-at="2021-01-07T09:26:07Z" finished-at="2021-01-07T09:26:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42355" started-at="2021-01-07T09:26:07Z" finished-at="2021-01-07T09:26:50Z">
+      <class name="Persistent.moneycontrol.BaseClass">
+        <test-method status="PASS" signature="lanchApp()[pri:0, instance:Persistent.moneycontrol.BaseClass@25b485ba]" name="lanchApp" is-config="true" duration-ms="30735" started-at="2021-01-07T09:26:07Z" finished-at="2021-01-07T09:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchApp -->
+        <test-method status="PASS" signature="searchingForElement()[pri:0, instance:Persistent.moneycontrol.BaseClass@25b485ba]" name="searchingForElement" duration-ms="10399" started-at="2021-01-07T09:26:38Z" finished-at="2021-01-07T09:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingForElement -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Persistent.moneycontrol.BaseClass@25b485ba]" name="closeApp" is-config="true" duration-ms="1195" started-at="2021-01-07T09:26:49Z" finished-at="2021-01-07T09:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Persistent.moneycontrol.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
